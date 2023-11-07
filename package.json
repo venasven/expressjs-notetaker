@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "util": "^0.12.5"
+    "util": "^0.12.5",
+    "uuid": "^9.0.1"
   },
-  "keywords": [],
-  "devDependencies": {}
+  "keywords": []
 }
