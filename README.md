@@ -14,5 +14,5 @@ https://express-sol-notetaker-f01f24dac3b6.herokuapp.com/
 
 
 ## Credits
-Discussed assignment with classmates and sought help from tutoring.
+Sought help from class TA: Meg Meyers and office hours.
 
