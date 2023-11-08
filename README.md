@@ -12,6 +12,9 @@ In this code you will find a fully functional note taking app deployed using Her
 ## Deployed Application
 https://express-sol-notetaker-f01f24dac3b6.herokuapp.com/
 
+## Lisence
+MIT Lisence
+
 
 ## Credits
 Sought help from class TA: Meg Meyers and office hours.
